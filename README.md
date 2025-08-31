@@ -13,7 +13,7 @@ This is an unofficial project for educational purposes only.
 
 ---
 
-## Example output:
+## Example Output
   ```
   Age Band : 30-40,
   Gender : MALE,
@@ -24,7 +24,7 @@ This is an unofficial project for educational purposes only.
 
 ---
 
-## Learning Outcome 
+## Learning Outcomes
 
 - Learned how to build Python APIs using web scraping.
 
@@ -60,4 +60,5 @@ Contributions are welcome! Fork the repo, make changes and submit a PR.
   <a href="#top">
     <img src="https://img.shields.io/badge/%E2%AC%86-Back%20to%20Top-blue?style=for-the-badge" alt="Back to Top"/>
   </a>
+
 </p>
