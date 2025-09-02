@@ -15,11 +15,11 @@ This is an unofficial project for educational purposes only.
 
 ## Example Output
   ```
-  Age Band : 30-40,
-  Gender : MALE,
-  Mobile Number : xx68545202,
-  State : Delhi,
-  Aadhar : 123412341234.
+  Age Band : 30-40
+  Gender : MALE
+  Mobile Number : xx68545202
+  State : Delhi
+  Aadhar : 123412341234
   ```
 
 ---
@@ -62,3 +62,4 @@ Contributions are welcome! Fork the repo, make changes and submit a PR.
   </a>
 
 </p>
+
